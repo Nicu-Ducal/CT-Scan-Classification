@@ -1,0 +1,121 @@
+0
+[tensor([[1320.,  126.,   54.],
+         [ 201.,  814.,  485.],
+         [ 129.,  197., 1174.]], device='cuda:0', dtype=torch.float64),
+
+1
+ tensor([[1453.,   38.,    9.],
+         [ 174.,  993.,  333.],
+         [  62.,  210., 1228.]], device='cuda:0', dtype=torch.float64),
+2
+ tensor([[1422.,   60.,   18.],
+         [  61.,  958.,  481.],
+         [  17.,   98., 1385.]], device='cuda:0', dtype=torch.float64),
+3
+ tensor([[1448.,   43.,    9.],
+         [  50., 1106.,  344.],
+         [  21.,  139., 1340.]], device='cuda:0', dtype=torch.float64),
+4
+ tensor([[1391.,   93.,   16.],
+         [  30., 1112.,  358.],
+         [  15.,  132., 1353.]], device='cuda:0', dtype=torch.float64),
+5
+ tensor([[1413.,   76.,   11.],
+         [  24., 1153.,  323.],
+         [  16.,  153., 1331.]], device='cuda:0', dtype=torch.float64),
+6
+ tensor([[1442.,   48.,   10.],
+         [  38., 1101.,  361.],
+         [  22.,  128., 1350.]], device='cuda:0', dtype=torch.float64),
+7
+ tensor([[1471.,   20.,    9.],
+         [  47., 1213.,  240.],
+         [  21.,  171., 1308.]], device='cuda:0', dtype=torch.float64),
+8
+ tensor([[1481.,   17.,    2.],
+         [  74., 1002.,  424.],
+         [  34.,   89., 1377.]], device='cuda:0', dtype=torch.float64),
+9
+ tensor([[1445.,   45.,   10.],
+         [  34., 1046.,  420.],
+         [  25.,   96., 1379.]], device='cuda:0', dtype=torch.float64),
+10
+ tensor([[1455.,   39.,    6.],
+         [  33., 1153.,  314.],
+         [  24.,  138., 1338.]], device='cuda:0', dtype=torch.float64),
+11
+ tensor([[1448.,   43.,    9.],
+         [  22., 1207.,  271.],
+         [  16.,  161., 1323.]], device='cuda:0', dtype=torch.float64),
+12
+ tensor([[1470.,   26.,    4.],
+         [  48., 1188.,  264.],
+         [  24.,  144., 1332.]], device='cuda:0', dtype=torch.float64),
+13
+ tensor([[1424.,   68.,    8.],
+         [  20., 1235.,  245.],
+         [   9.,  166., 1325.]], device='cuda:0', dtype=torch.float64),
+14
+ tensor([[1436.,   54.,   10.],
+         [  27., 1296.,  177.],
+         [  15.,  209., 1276.]], device='cuda:0', dtype=torch.float64),
+15
+ tensor([[1440.,   47.,   13.],
+         [  25., 1085.,  390.],
+         [  11.,  106., 1383.]], device='cuda:0', dtype=torch.float64),
+16
+ tensor([[1454.,   35.,   11.],
+         [  29., 1288.,  183.],
+         [  11.,  209., 1280.]], device='cuda:0', dtype=torch.float64),
+17
+ tensor([[1450.,   42.,    8.],
+         [  31., 1235.,  234.],
+         [  19.,  179., 1302.]], device='cuda:0', dtype=torch.float64),
+18
+ tensor([[1466.,   28.,    6.],
+         [  30., 1221.,  249.],
+         [  14.,  173., 1313.]], device='cuda:0', dtype=torch.float64),
+19
+ tensor([[1470.,   24.,    6.],
+         [  38., 1268.,  194.],
+         [  17.,  163., 1320.]], device='cuda:0', dtype=torch.float64),
+20
+ tensor([[1467.,   22.,   11.],
+         [  54., 1110.,  336.],
+         [  27.,  111., 1362.]], device='cuda:0', dtype=torch.float64),
+21
+ tensor([[1456.,   33.,   11.],
+         [  30., 1057.,  413.],
+         [  17.,   91., 1392.]], device='cuda:0', dtype=torch.float64),
+22
+ tensor([[1445.,   46.,    9.],
+         [  30., 1198.,  272.],
+         [  13.,  153., 1334.]], device='cuda:0', dtype=torch.float64),
+23
+ tensor([[1436.,   51.,   13.],
+         [  18., 1343.,  139.],
+         [  11.,  234., 1255.]], device='cuda:0', dtype=torch.float64),
+24
+ tensor([[1468.,   20.,   12.],
+         [  34., 1207.,  259.],
+         [  14.,  140., 1346.]], device='cuda:0', dtype=torch.float64),
+25
+ tensor([[1474.,   18.,    8.],
+         [  24., 1207.,  269.],
+         [  14.,  139., 1347.]], device='cuda:0', dtype=torch.float64),
+26
+ tensor([[1466.,   24.,   10.],
+         [  33., 1099.,  368.],
+         [  17.,   71., 1412.]], device='cuda:0', dtype=torch.float64),
+27
+ tensor([[1464.,   28.,    8.],
+         [  36., 1181.,  283.],
+         [  18.,  146., 1336.]], device='cuda:0', dtype=torch.float64),
+28
+ tensor([[1456.,   38.,    6.],
+         [  31., 1260.,  209.],
+         [  17.,  179., 1304.]], device='cuda:0', dtype=torch.float64),
+29
+ tensor([[1445.,   43.,   12.],
+         [  30., 1089.,  381.],
+         [  13.,   98., 1389.]], device='cuda:0', dtype=torch.float64)]
